@@ -1,5 +1,13 @@
 # imgup
-python based image uploader and generate BBCode for a few PT sites
+压制对比图/一般截图, 上传图床，生成bbcode工具
+
+图床支持ptpimg/hdbimg/imgbox
+站点支持hdb,ptp,pter,np(nexusphp架构),mtv,bhd
+站点和使用图床的对应关系如下
+   HDB: hdbimg
+   PTP/MTV: ptpimg
+   pter/np/bhd: imgbox   
+使用同一图床的多个站点，只上传一次
 
 使用说明
 1. 安装python3 下面的说明为windows平台(Linux平台也测试通过)
@@ -89,12 +97,6 @@ optional arguments:
    -d 指定info 或debug, 可省略，默认为info
    -c HDBImg cookie 方式上传，可省略，默认关闭 (仅需要多次上传到同一gallery时使用, 修改imgup.py填写HDB_COOKIE)
 
-目前支持hdb,ptp,pter,np(nexusphp架构),mtv,bhd
-站点和使用图床的对应关系如下
-   HDB: hdbimg
-   PTP/MTV: ptpimg
-   pter/np/bhd: imgbox   
-使用同一图床的多个站点，只上传一次
 
 目前HDB/BHD的一般预览图会生成两个图摆一排的bbcode, 可以修改代码MakeBBCodeBHD/MakeBBCodeHDB
 max_preview_img_per_row=2改成想要的值
@@ -245,3 +247,6 @@ NP BBCODE:
 [url=https://images2.imgbox.com/72/cc/XXXXX.png][img]https://thumbs2.imgbox.com/72/cc/XXXXX.png[/img][/url]
 [url=https://images2.imgbox.com/96/96/XXXXX.png][img]https://thumbs2.imgbox.com/96/96/XXXXX.png[/img][/url]
 [/center]
+
+ptpimg, hdbimg cookie部分代码参考了梅西大佬的差速器https://github.com/LeiShi1313, 感谢
+
