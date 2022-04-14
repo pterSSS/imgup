@@ -72,7 +72,6 @@ class BBCodeGen(object):
                         [f"{self.urls[i][index]}" for i in range(0, len(self.urls))])
                 bb += "\n\n"
         else:
-            # for index in range(0, len(self.urls), max_preview_img_per_row):
             max_rows = ceil(len(self.urls[0])/max_preview_img_per_row)
 
             for index in range(0, max_rows):
