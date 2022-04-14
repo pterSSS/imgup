@@ -12,7 +12,7 @@
 使用说明  
 1. 安装python3 下面的说明为windows平台(Linux平台也测试通过)  
 
-2. 修改imgup.py，在文件最前面填入自己的HDB username/passkey, PTP API key。注意不要泄露带有key的文件。  
+2. 修改imgup.py，在文件最前面填入自己的HDB username/passkey, PTPimg API key。注意不要泄露带有key的文件。  
    HDB_COOKIE 如果不使用cookie上传方式可以不填（cookie方式可支持多次上传截图到同一gallery)   
 
 3. 复制imgup.py 到python3安装目录下的Lib, 例如c:\python39\Lib  
