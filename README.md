@@ -78,78 +78,42 @@ PTPImg: 109685-Encode.png was uploaded successfully.
 
 HDB BBCODE:  
 [center][size=4][b][color=Blue]Source Vs Encode[/color][/b][/size]  
-[url=https://img.hdbits.org/XXXXX][img]https://t..hdbits.org/XXXXX.jpg[/img][/url] [url=https://img.hdbits.org/XXXXX][img]https://t..hdbits.org/XXXXX.jpg[/img][/url]  
-
-[url=https://img.hdbits.org/XXXXX][img]https://t..hdbits.org/XXXXX.jpg[/img][/url] [url=https://img.hdbits.org/XXXXX][img]https://t..hdbits.org/XXXXX.jpg[/img][/url]  
-
-[url=https://img.hdbits.org/XXXXX][img]https://t..hdbits.org/XXXXX.jpg[/img][/url] [url=https://img.hdbits.org/XXXXX][img]https://t..hdbits.org/XXXXX.jpg[/img][/url]  
-
+....
 [/center]  
 
 
 
 BHD BBCODE:   
 [comparison=Source,Encode]  
-[img]https://images2.imgbox.com/86/da/XXXXX.png[/img]  
-[img]https://images2.imgbox.com/ba/c8/XXXXX.png[/img]  
-  
-[img]https://images2.imgbox.com/44/95/XXXXX.png[/img]  
-[img]https://images2.imgbox.com/39/67/XXXXX.png[/img]  
-
-[img]https://images2.imgbox.com/80/a2/XXXXX.png[/img]    
-[img]https://images2.imgbox.com/41/e2/XXXXX.png[/img]    
-
+...
 [/comparison]  
 
 
 
 PTer BBCODE:  
 [center][size=4][b][color=Blue]Source Vs Encode[/color][/b][/size]  
-[url=https://images2.imgbox.com/86/da/XXXXX.png][img2]https://thumbs2.imgbox.com/86/da/XXXXX.png[/img][/url] [url=https://images2.imgbox.com/ba/c8/XXXXX.png][img2]https://thumbs2.imgbox.com/ba/c8/XXXXX.png[/img][/url]  
-[url=https://images2.imgbox.com/44/95/XXXXX.png][img2]https://thumbs2.imgbox.com/44/95/XXXXX.png[/img][/url] [url=https://images2.imgbox.com/39/67/XXXXX.png][img2]https://thumbs2.imgbox.com/39/67/XXXXX.png[/img][/url]  
-[url=https://images2.imgbox.com/80/a2/XXXXX.png][img2]https://thumbs2.imgbox.com/80/a2/XXXXX.png[/img][/url] [url=https://images2.imgbox.com/41/e2/XXXXX.png][img2]https://thumbs2.imgbox.com/41/e2/XXXXX.png[/img][/url]  
+...
 [/center]  
 
 
 
 PTP BBCODE:  
 [comparison=Source,Encode]  
-https://ptpimg.me/XXXXX.png  
-https://ptpimg.me/XXXXX.png  
-
-https://ptpimg.me/XXXXX.png  
-https://ptpimg.me/XXXXX.png  
-
-https://ptpimg.me/XXXXX.png  
-https://ptpimg.me/XXXXX.png  
-
+....
 [/comparison]  
 
 
 
 MTV BBCODE:  
 [comparison=Source,Encode]  
-https://ptpimg.me/XXXXX.png  
-https://ptpimg.me/XXXXX.png  
-
-https://ptpimg.me/XXXXX.png  
-https://ptpimg.me/XXXXX.png  
-
-https://ptpimg.me/XXXXX.png  
-https://ptpimg.me/XXXXX.png  
-
+...
 [/comparison]  
 
 
 
 NP BBCODE:    
 [center][size=4][b][color=Blue]Source Vs Encode[/color][/b][/size]  
-[url=https://images2.imgbox.com/86/da/XXXXX.png][img]https://thumbs2.imgbox.com/86/da/XXXXX.png[/img][/url] [url=https://images2.imgbox.com/ba/c8/XXXXX.png][img]https://thumbs2.imgbox.com/ba/c8/XXXXX.png[/img][/url]  
-
-[url=https://images2.imgbox.com/44/95/XXXXX.png][img]https://thumbs2.imgbox.com/44/95/XXXXX.png[/img][/url] [url=https://images2.imgbox.com/39/67/XXXXX.png][img]https://thumbs2.imgbox.com/39/67/XXXXX.png[/img][/url]  
-
-[url=https://images2.imgbox.com/80/a2/XXXXX.png][img]https://thumbs2.imgbox.com/80/a2/XXXXX.png[/img][/url] [url=https://images2.imgbox.com/41/e2/XXXXX.png][img]https://thumbs2.imgbox.com/41/e2/XXXXX.png[/img][/url]  
-
+...
 [/center]  
 
 
@@ -165,46 +129,32 @@ PTPImg: 140688-Preview.png was uploaded successfully.
   
 HDB BBCODE:  
 [center][size=4][b][color=Blue]Preview[/color][/b][/size]  
-[url=https://img.hdbits.org/XXXXX][img]https://t..hdbits.org/XXXXX.jpg[/img][/url] [url=https://img.hdbits.org/XXXXX][img]https://t..hdbits.org/XXXXX.jpg[/img][/url]  
-[url=https://img.hdbits.org/XXXXX][img]https://t..hdbits.org/XXXXX.jpg[/img][/url]    
+...
 [/center]  
 
 
 
 BHD BBCODE:  
-[url=https://images2.imgbox.com/47/f0/XXXXX.png][img]https://thumbs2.imgbox.com/47/f0/XXXXX.png[/img][/url] [url=https://images2.imgbox.com/72/cc/XXXXX.png][img]https://thumbs2.imgbox.com/72/cc/XXXXX.png[/img][/url]  
-[url=https://images2.imgbox.com/96/96/XXXXX.png][img]https://thumbs2.imgbox.com/96/96/XXXXX.png[/img][/url]  
-
-
+...
 
 PTer BBCODE:  
 [center][size=4][b][color=Blue]Preview[/color][/b][/size]  
-[url=https://images2.imgbox.com/47/f0/XXXXX.png][img]https://thumbs2.imgbox.com/47/f0/XXXXX.png[/img][/url]  
-[url=https://images2.imgbox.com/72/cc/XXXXX.png][img]https://thumbs2.imgbox.com/72/cc/XXXXX.png[/img][/url]  
-[url=https://images2.imgbox.com/96/96/XXXXX.png][img]https://thumbs2.imgbox.com/96/96/XXXXX.png[/img][/url]    
+...
 [/center]  
 
 
 
 PTP BBCODE:  
-[img]https://ptpimg.me/XXXXX.png[/img]  
-[img]https://ptpimg.me/XXXXX.png[/img]    
-[img]https://ptpimg.me/XXXXX.png[/img]  
-
+...
 
 
 MTV BBCODE:  
-[img]https://ptpimg.me/XXXXX.png[/img]  
-[img]https://ptpimg.me/XXXXX.png[/img]  
-[img]https://ptpimg.me/XXXXX.png[/img]  
-
+...
 
 
 NP BBCODE:  
 [center][size=4][b][color=Blue]Preview[/color][/b][/size]  
-[url=https://images2.imgbox.com/47/f0/XXXXX.png][img]https://thumbs2.imgbox.com/47/f0/XXXXX.png[/img][/url]  
-[url=https://images2.imgbox.com/72/cc/XXXXX.png][img]https://thumbs2.imgbox.com/72/cc/XXXXX.png[/img][/url]  
-[url=https://images2.imgbox.com/96/96/XXXXX.png][img]https://thumbs2.imgbox.com/96/96/XXXXX.png[/img][/url]  
+...
 [/center]    
 
 ptpimg, hdbimg cookie部分代码参考了梅西大佬的差速器https://github.com/LeiShi1313 (感谢)
