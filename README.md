@@ -78,42 +78,42 @@ PTPImg: 109685-Encode.png was uploaded successfully.
 
 HDB BBCODE:  
 [center][size=4][b][color=Blue]Source Vs Encode[/color][/b][/size]  
-....
+....  
 [/center]  
 
 
 
 BHD BBCODE:   
 [comparison=Source,Encode]  
-...
+...  
 [/comparison]  
 
 
 
 PTer BBCODE:  
 [center][size=4][b][color=Blue]Source Vs Encode[/color][/b][/size]  
-...
+...  
 [/center]  
 
 
 
 PTP BBCODE:  
 [comparison=Source,Encode]  
-....
+....  
 [/comparison]  
 
 
 
 MTV BBCODE:  
 [comparison=Source,Encode]  
-...
+...  
 [/comparison]  
 
 
 
 NP BBCODE:    
 [center][size=4][b][color=Blue]Source Vs Encode[/color][/b][/size]  
-...
+...  
 [/center]  
 
 
@@ -129,32 +129,32 @@ PTPImg: 140688-Preview.png was uploaded successfully.
   
 HDB BBCODE:  
 [center][size=4][b][color=Blue]Preview[/color][/b][/size]  
-...
+...  
 [/center]  
 
 
 
 BHD BBCODE:  
-...
+...  
 
 PTer BBCODE:  
 [center][size=4][b][color=Blue]Preview[/color][/b][/size]  
-...
+...  
 [/center]  
 
 
 
 PTP BBCODE:  
-...
+...  
 
 
 MTV BBCODE:  
-...
+...  
 
 
 NP BBCODE:  
 [center][size=4][b][color=Blue]Preview[/color][/b][/size]  
-...
+...  
 [/center]    
 
 ptpimg, hdbimg cookie部分代码参考了梅西大佬的差速器https://github.com/LeiShi1313 (感谢)
